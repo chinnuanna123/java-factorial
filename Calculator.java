@@ -3,7 +3,7 @@ public class Calculator {
     int x = 25;
     int y = 5;
     int sum = x + y;
-    System.out.println(sum);
+    System.out.println("The Sum is:"sum);
     int sub = x - y;
     System.out.println(sub);
     int div = x / y;
